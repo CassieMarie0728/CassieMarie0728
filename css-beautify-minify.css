@@ -1,0 +1,299 @@
+/* === THE BADASS FINAL FORM STYLESHEET — WHERE DARK MEETS DANGEROUS === */
+
+/* BODY & BACKGROUND */
+body {
+  background-color: #0b0f0f; /* Darker than your worst hangover */
+  color: #a8a9ad; /* Ghostly gray, like the echo of a curse */
+  font-family: "Elegant-Typewriter", monospace; /* Typewriter meets tattoo parlor */
+  font-size: 1rem; /* Normal, but deadly */
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* HEADERS — BLOOD-RED BOLDNESS WITH SUBWAY-NOVELLA */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Subway-Novella", sans-serif;
+  color: #981518; /* The color of a fresh fistfight bruise */
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+/* LINKS & BUTTONS — SHOUT IT LOUD WITH SUBWAY-NOVELLA AND RED FIRE */
+a,
+button,
+.button,
+input[type="submit"] {
+  font-family: "Subway-Novella", sans-serif;
+  color: #981518;
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.3s ease, background-color 0.3s ease;
+  border: none;
+  background: none;
+  padding: 0;
+}
+
+a:hover,
+button:hover,
+.button:hover,
+input[type="submit"]:hover {
+  color: #f5f5f5; /* Ghost white scream */
+  text-shadow: 0 0 8px #981518;
+}
+
+/* BUTTONS & INTERACTIVES — MAKE ‘EM POP LIKE A PIPE BOMB */
+button,
+input[type="submit"],
+.button {
+  padding: 0.5rem 1.2rem;
+  background-color: #981518;
+  color: #f5f5f5;
+  border-radius: 4px;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  box-shadow: 0 0 12px rgba(152, 21, 24, 0.7);
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+button:hover,
+input[type="submit"]:hover,
+.button:hover {
+  background-color: #4e4b51; /* Steely gray, like a knife edge */
+  box-shadow: 0 0 20px #981518;
+  color: #a8a9ad;
+}
+
+/* NORMAL TEXT — LET IT BE THE GRIT BENEATH THE GLORY */
+p,
+li,
+span,
+input,
+textarea,
+select {
+  font-family: "Elegant-Typewriter", monospace;
+  color: #a8a9ad;
+  line-height: 1.6;
+  font-size: 1rem;
+}
+
+/* FOOTER & SITE INFO */
+.site-info,
+footer {
+  font-family: "Elegant-Typewriter", monospace;
+  color: #a8a9ad;
+  background-color: #0b0f0f;
+  padding: 1.5rem 2rem;
+  border-top: 1px solid #981518;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+/* HEADER SITE TITLE LINK */
+.site-header .main-title a,
+.site-header .main-title a:hover,
+.site-header .main-title a:visited {
+  font-family: "Subway-Novella", sans-serif;
+  font-weight: 700;
+  color: #981518;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-shadow: 0 0 6px #981518;
+}
+
+/* NAVIGATION LINKS */
+.main-navigation .main-nav ul li a {
+  font-family: "Subway-Novella", sans-serif;
+  color: #981518;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  transition: color 0.3s ease;
+}
+
+.main-navigation .main-nav ul li a:hover {
+  color: #f5f5f5;
+  text-shadow: 0 0 8px #981518;
+}
+
+/* SEARCH BAR — BADASS BLACK HOLE OF FOCUS */
+.badass-search {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  border: 2px solid #981518;
+  padding: 0.5rem 1rem;
+  background-color: #0b0f0f;
+  border-radius: 5px;
+}
+
+.badass-search input.search-field {
+  flex: 1;
+  background: none;
+  border: none;
+  color: #a8a9ad;
+  font-family: "Elegant-Typewriter", monospace;
+  font-size: 1rem;
+  outline: none;
+}
+
+.badass-search button.search-submit {
+  background-color: #981518;
+  color: #f5f5f5;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  font-weight: 700;
+  font-family: "Subway-Novella", sans-serif;
+  transition: background-color 0.2s ease;
+  border-radius: 4px;
+}
+
+.badass-search button.search-submit:hover {
+  background-color: #4e4b51;
+  color: #a8a9ad;
+}
+
+/* SIDEBAR — DARK AND DANGEROUS */
+.badass-sidebar {
+  background: #0b0f0f;
+  padding: 2rem;
+  color: #a8a9ad;
+  border-left: 4px solid #981518;
+  font-family: "Elegant-Typewriter", monospace;
+}
+
+.badass-sidebar h3 {
+  color: #981518;
+  font-family: "Subway-Novella", sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  letter-spacing: 0.08em;
+}
+
+.no-widgets-message {
+  background: #1a1a1a;
+  padding: 1rem;
+  border: 1px dashed #981518;
+  margin-top: 1rem;
+  font-style: italic;
+  color: #a8a9ad;
+  font-family: "Elegant-Typewriter", monospace;
+  font-size: 0.95rem;
+}
+
+/* POSTS EXPLOSIVE HOVER EFFECT */
+.post-explosive {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  position: relative;
+  z-index: 0;
+}
+
+.post-explosive:hover {
+  transform: scale(1.03);
+  box-shadow: 0 8px 20px rgba(152, 21, 24, 0.7);
+  z-index: 10;
+}
+
+.post-explosive:hover .post-title {
+  color: #981518;
+  text-shadow: 0 0 8px #981518;
+}
+
+/* SITE HEADER BORDER — SUBTLE LINE OF BLOOD */
+.site-header {
+  border-bottom: 1px solid #981518;
+}
+
+/* ICONS BLOCK FIX */
+.wpkoiblockicon .elementor-icon {
+  display: block;
+}
+
+/* SITE INFO AND FOOTER PADDING FOR BREATHING ROOM */
+.site-info {
+  padding: 1vw 4vw;
+}
+
+/* RESPONSIVE TWEAKS */
+@media (min-width: 1025px) {
+  .hide-on-desktop {
+    display: none !important;
+  }
+}
+
+@media (max-width: 1024px) {
+  .main-navigation .main-nav ul li a {
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .transparent-header .site-header {
+    position: absolute;
+    width: 100%;
+    z-index: 100;
+    background-color: transparent;
+  }
+}
+
+/* RESPONSIVE FONT SIZES — KEEPING IT BADASS ON MOBILE */
+@media (max-width: 768px) {
+  body {
+    font-size: 0.95rem;
+    padding: var(--maala--mobile-side-top) var(--maala--mobile-side-right)
+      var(--maala--mobile-side-bottom) var(--maala--mobile-side-left);
+  }
+  .site-header .main-title a {
+    font-size: 1.8rem;
+  }
+  .main-navigation .main-nav ul li a {
+    font-size: 1rem;
+  }
+  h1 {
+    font-size: 1.8rem;
+  }
+  h2 {
+    font-size: 1.5rem;
+  }
+  h3 {
+    font-size: 1.3rem;
+  }
+  h4 {
+    font-size: 1.1rem;
+  }
+  h5 {
+    font-size: 1rem;
+  }
+  h6 {
+    font-size: 0.9rem;
+  }
+  button,
+  input[type="submit"],
+  .button {
+    font-size: 1rem;
+    padding: 0.4rem 1rem;
+  }
+}
+
+/* BONUS: SLICK TRANSITIONS AND SUBTLE SHADOWS FOR THAT SMOOTH VIBE */
+a,
+button,
+input,
+select,
+textarea {
+  transition: color 0.3s ease, background-color 0.3s ease;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
