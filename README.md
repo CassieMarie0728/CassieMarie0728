@@ -42,6 +42,7 @@ self-reinvention.
 | MCP Hub                | MCP Hub is a client runtime and API layer for connecting, managing, and exposing Model Context Protocol servers through one clean product-facing interface. It supports stdio and HTTP-based MCP servers, lifecycle handling, capability negotiation, tools, resources, prompts, completions, and auth workflows.                   | [GitHub](https://github.com/CassieMarie0728/mcp-hub)                |
 | THE FORK               | THE FORK is an interactive reflective app where users can talk to an “alternate self” from a path not taken. It is designed as a grounded, human, emotionally safe experience—not a sci-fi simulation, not therapy cosplay, and definitely not some glitter-coated destiny machine.                                                 | [GitHub](https://github.com/CassieMarie0728/the-fork)               |
 | Snippet Bubble Manager | Snippet Bubble Manager is a lightweight creative/code snippet organizer built to help capture, tag, search, and reuse useful fragments without letting them rot in the digital junk drawer from hell. It is designed for fast saving, clean organization, and quick retrieval of reusable text, code, prompts, and workflow pieces. | [GitHub](https://github.com/CassieMarie0728/snippet-bubble-manager) |
+| Jekyll Forge | A production-ready visual editor, publishing dashboard, and GitHub-powered CMS for Jekyll blogs built for Android. | [GitHub](https://github.com/CassieMarie0728/jekyll-forge) |
 
 ### MCP Hub
 
