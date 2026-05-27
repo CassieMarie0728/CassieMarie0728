@@ -37,25 +37,25 @@ My work lives somewhere between emotional wreckage, creative rebellion, and “h
 
 ## MCP Hub
 
-<p align="center"><img width="128" height="128" alt="mcp-hub" src="https://github.com/user-attachments/assets/b89f5817-4142-4930-9e36-17eb547e623b" /></p>
+<p align="center"><img width="200" height="200" alt="mcp-hub" src="https://github.com/user-attachments/assets/b89f5817-4142-4930-9e36-17eb547e623b" /></p>
 
 <p align="center">Technologies Used: TypeScript, Node.js, MCP, HTTP APIs, OAuth, JSON-RPC, CLI/runtime tooling</p>
 
 ## THE FORK
 
-<p align="center"><img width="128" height="128" alt="the-fork" src="https://github.com/user-attachments/assets/e1161641-fbef-4ec2-a5bf-375b6102f27a" /></p>
+<p align="center"><img width="200" height="200" alt="the-fork" src="https://github.com/user-attachments/assets/e1161641-fbef-4ec2-a5bf-375b6102f27a" /></p>
 
 <p align="center">Technologies Used: React, FastAPI, Python, MongoDB, LLM APIs, Docker, Prompt Architecture, Safety Wrappers</p>
 
 ## Snippet Bubble Manager
 
-<p align="center"><img width="128" height="128" alt="snippet-bubble-manager" src="https://github.com/user-attachments/assets/9a2c6ddd-c006-4463-910a-75d32145d058" /></p>
+<p align="center"><img width="200" height="200" alt="snippet-bubble-manager" src="https://github.com/user-attachments/assets/9a2c6ddd-c006-4463-910a-75d32145d058" /></p>
 
 <p align="center">Technologies Used: React, JavaScript/TypeScript, TailwindCSS, Local Storage/Database Layer, Searchable Tags, Browser/PWA-styke UI</p>
 
 ## Jekyll Forge
 
-<p align="center"><img width="128" height="128" alt="jekyll-forge" src="https://github.com/user-attachments/assets/8b8b6327-199c-4ff9-ba55-4fa5207c8750" /></p>
+<p align="center"><img width="200" height="200" alt="jekyll-forge" src="https://github.com/user-attachments/assets/8b8b6327-199c-4ff9-ba55-4fa5207c8750" /></p>
 
 <p align="center">Technologies Used: Typescript, React, Vite, Tailwindcss, Express, tRPC, Drizzle-ORM, MySQL, pnpm. Vitest</p>
 
@@ -148,7 +148,7 @@ empire, organize my digital junk drawers, and build emotionally intelligent apps
 
 ### 💻 **Other**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white);![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ## 📊 **GitHub Stats & Activity**
 
@@ -162,7 +162,7 @@ empire, organize my digital junk drawers, and build emotionally intelligent apps
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CassieMarie0728&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CassieMarie0728&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CassieMarie0728&theme=monokai)
 
 </div>
 
