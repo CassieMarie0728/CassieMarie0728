@@ -44,29 +44,29 @@ self-reinvention.
 | Snippet Bubble Manager | Snippet Bubble Manager is a lightweight creative/code snippet organizer built to help capture, tag, search, and reuse useful fragments without letting them rot in the digital junk drawer from hell. It is designed for fast saving, clean organization, and quick retrieval of reusable text, code, prompts, and workflow pieces. | [GitHub](https://github.com/CassieMarie0728/snippet-bubble-manager) |
 | Jekyll Forge | A production-ready visual editor, publishing dashboard, and GitHub-powered CMS for Jekyll blogs built for Android. | [GitHub](https://github.com/CassieMarie0728/jekyll-forge) |
 
-### **MCP Hub**
+<p align="center">## **MCP Hub**</p>
 
 <p align="center"><img width="512" height="512" alt="mcp-hub" src="https://github.com/user-attachments/assets/b89f5817-4142-4930-9e36-17eb547e623b" /></p>
 
-<p align="center">**Technologies Used:** TypeScript, Node.js, MCP, HTTP APIs, OAuth, JSON-RPC, CLI/runtime tooling</p>
+<p align="center">Technologies Used: TypeScript, Node.js, MCP, HTTP APIs, OAuth, JSON-RPC, CLI/runtime tooling</p>
 
-### **THE FORK**
+<p align="center">## **THE FORK**</p>
 
 <p align="center"><img width="512" height="512" alt="the-fork" src="https://github.com/user-attachments/assets/e1161641-fbef-4ec2-a5bf-375b6102f27a" /></p>
 
-<p align="center">**Technologies Used:** React, FastAPI, Python, MongoDB, LLM APIs, Docker, Prompt Architecture, Safety Wrappers</p>
+<p align="center">Technologies Used: React, FastAPI, Python, MongoDB, LLM APIs, Docker, Prompt Architecture, Safety Wrappers</p>
 
-### **Snippet Bubble Manager**
+<p align="center">## **Snippet Bubble Manager**</p>
 
 <p align="center"><img width="512" height="512" alt="snippet-bubble-manager" src="https://github.com/user-attachments/assets/9a2c6ddd-c006-4463-910a-75d32145d058" /></p>
 
-<p align="center">**Technologies Used:** React, JavaScript/TypeScript, TailwindCSS, Local Storage/Database Layer, Searchable Tags, Browser/PWA-styke UI</p>
+<p align="center">Technologies Used: React, JavaScript/TypeScript, TailwindCSS, Local Storage/Database Layer, Searchable Tags, Browser/PWA-styke UI</p>
 
-### **Jekyll Forge**
+<p align="center">## **Jekyll Forge**</p>
 
-<p align="center"><img width="1024" height="1024" alt="jekyll-forge" src="https://github.com/user-attachments/assets/8b8b6327-199c-4ff9-ba55-4fa5207c8750" /></p>
+<p align="center"><img width="512" height="512" alt="jekyll-forge" src="https://github.com/user-attachments/assets/8b8b6327-199c-4ff9-ba55-4fa5207c8750" /></p>
 
-<p align="center">**Technologies Used:** Typescript, React, Vite, Tailwindcss, Express, tRPC, Drizzle-ORM, MySQL, pnpm. Vitest</p>
+<p align="center">Technologies Used: Typescript, React, Vite, Tailwindcss, Express, tRPC, Drizzle-ORM, MySQL, pnpm. Vitest</p>
 
 ## 📞 **Contact & Links**
 
