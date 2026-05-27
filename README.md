@@ -12,7 +12,7 @@
 
 </div>
 
-## 🚀 About Me
+## 🚀 **About Me**
 
 Author, designer, builder, and professional chaos translator. I create
 grief-centered tools, darkly honest writing, and weirdly useful systems for
@@ -23,7 +23,7 @@ My work lives somewhere between emotional wreckage, creative rebellion, and
 workflows, and digital infrastructure around storytelling, grief, memory, and
 self-reinvention.
 
-## 📚 Learning & Knowledge
+## 📚 **Learning & Knowledge**
 
 <div align="left">
 
@@ -35,7 +35,7 @@ self-reinvention.
 
 </div>
 
-## 🚀 Projects
+## 🚀 **Projects**
 
 | Project                | Description                                                                                                                                                                                                                                                                                                                         | Links                                                               |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
@@ -44,40 +44,43 @@ self-reinvention.
 | Snippet Bubble Manager | Snippet Bubble Manager is a lightweight creative/code snippet organizer built to help capture, tag, search, and reuse useful fragments without letting them rot in the digital junk drawer from hell. It is designed for fast saving, clean organization, and quick retrieval of reusable text, code, prompts, and workflow pieces. | [GitHub](https://github.com/CassieMarie0728/snippet-bubble-manager) |
 | Jekyll Forge | A production-ready visual editor, publishing dashboard, and GitHub-powered CMS for Jekyll blogs built for Android. | [GitHub](https://github.com/CassieMarie0728/jekyll-forge) |
 
-### MCP Hub
+### **MCP Hub**
 
-<img src="https://github.com/CassieMarie0728/mcp-hub/blob/e2f83f67b2e9ef5fa7452c7aa40db1bbb2350120/assets/images/android-icon-foreground.png" alt="MCP Hub" width="500"/>
+<p align="center"><img width="512" height="512" alt="mcp-hub" src="https://github.com/user-attachments/assets/b89f5817-4142-4930-9e36-17eb547e623b" /></p>
 
-**Technologies Used:** TypeScript, Node.js, MCP, HTTP APIs, OAuth, JSON-RPC,
-CLI/runtime tooling
+<p align="center">**Technologies Used:** TypeScript, Node.js, MCP, HTTP APIs, OAuth, JSON-RPC, CLI/runtime tooling</p>
 
-### THE FORK
+### **THE FORK**
 
-<img src="https://github.com/CassieMarie0728/the-fork/blob/fbad297dc039e27b878a0027563bf0b7d1c63405/assets/2-ChatGPT%20Image%20Jan%2026%2C%202026%2C%2011_15_19%20AM.png" alt="THE FORK" width="500"/>
+<p align="center"><img width="512" height="512" alt="the-fork" src="https://github.com/user-attachments/assets/e1161641-fbef-4ec2-a5bf-375b6102f27a" /></p>
 
-**Technologies Used:** React, FastAPI, Python, MongoDB, LLM APIs, Docker, Prompt
-Architecture, Safety Wrappers
+<p align="center">**Technologies Used:** React, FastAPI, Python, MongoDB, LLM APIs, Docker, Prompt Architecture, Safety Wrappers</p>
 
-### Snippet Bubble Manager
+### **Snippet Bubble Manager**
 
-<img src="https://github.com/CassieMarie0728/snippet-bubble-manager/blob/ede1830d07d0085371b9f678bfcff5e35d483b43/docs/images/icon.png" alt="Snippet Bubble Manager" width="500"/>
+<p align="center"><img width="512" height="512" alt="snippet-bubble-manager" src="https://github.com/user-attachments/assets/9a2c6ddd-c006-4463-910a-75d32145d058" /></p>
 
-**Technologies Used:** React, JavaScript/TypeScript, TailwindCSS, Local
-Storage/Database Layer, Searchable Tags, Browser/PWA-styke UI
+<p align="center">**Technologies Used:** React, JavaScript/TypeScript, TailwindCSS, Local Storage/Database Layer, Searchable Tags, Browser/PWA-styke UI</p>
 
-## 📞 Contact & Links
+### **Jekyll Forge**
+
+<p align="center"><img width="1024" height="1024" alt="jekyll-forge" src="https://github.com/user-attachments/assets/8b8b6327-199c-4ff9-ba55-4fa5207c8750" /></p>
+
+<p align="center">**Technologies Used:** Typescript, React, Vite, Tailwindcss, Express, tRPC, Drizzle-ORM, MySQL, pnpm. Vitest</p>
+
+## 📞 **Contact & Links**
 
 <div align="left">
 
-- 📫 How to reach me **cmcrossno@gmail.com**
+- 📫 How to reach me **[by email](cmcrossno@gmail.com)**
 - 👨‍💻 All of my projects are available at
   [https://github.com/cassiemarie0728](https://github.com/cassiemarie0728)
 - 📝 I regularly write articles on
-  [https://cassandracrossno.com](https://cassandracrossno.com)
+  [https://nobullshitgrief.com](https://nobullshitgrief.com)
 
 </div>
 
-## ⚡ Fun Fact
+## ⚡ **Fun Fact**
 
 <div align="center">
 
@@ -87,7 +90,7 @@ that ask, “What if therapy, GitHub, and a biker bar had a weird little baby?�
 
 </div>
 
-## 🌐 Connect with Me
+## 🌐 **Connect with Me**
 
 <div align="center">
 
@@ -95,7 +98,7 @@ that ask, “What if therapy, GitHub, and a biker bar had a weird little baby?�
 
 </div>
 
-## ☕ Support Me
+## ☕ **Support Me**
 
 <div align="center">
 
@@ -105,61 +108,61 @@ that ask, “What if therapy, GitHub, and a biker bar had a weird little baby?�
 
 </div>
 
-## 🛠️ Skills & Technologies
+## 🛠️ **Skills & Technologies**
 
-### 💻 Programming Languages
+### 💻 **Programming Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;&nbsp;![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 💻 Frontend Development
+### 💻 **Frontend Development**
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;&nbsp;&nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 💻 Backend Development
+### 💻 **Backend Development**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;&nbsp;&nbsp;![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 💻 Mobile App Development
+### 💻 **Mobile App Development**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;&nbsp;&nbsp;![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;&nbsp;&nbsp;![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;&nbsp;&nbsp;![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;&nbsp;&nbsp;![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-### 💻 AI/ML
+### 💻 **AI/ML**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;&nbsp;&nbsp;![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### 💻 Database
+### 💻 **Database**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;&nbsp;![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-### 💻 DevOps
+### 💻 **DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;&nbsp;&nbsp;![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;&nbsp;&nbsp;![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)&nbsp;&nbsp;&nbsp;![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;&nbsp;&nbsp;![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 💻 Backend as a Service (BaaS)
+### 💻 **Backend as a Service (BaaS)**
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;&nbsp;&nbsp;![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
 
-### 💻 Testing
+### 💻 **Testing**
 
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 
-### 💻 Software
+### 💻 **Software**
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)&nbsp;&nbsp;&nbsp;![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;&nbsp;&nbsp;![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)&nbsp;&nbsp;&nbsp;![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;&nbsp;&nbsp;![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-### 💻 Static Site Generators
+### 💻 **Static Site Generators**
 
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)&nbsp;&nbsp;&nbsp;![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)&nbsp;&nbsp;&nbsp;![Eleventy](https://img.shields.io/badge/Eleventy-1F1F1F?style=for-the-badge&logo=11ty&logoColor=white)&nbsp;&nbsp;&nbsp;![Jekyll](https://img.shields.io/badge/Jekyll-000000?style=for-the-badge&logo=jekyll&logoColor=white)
 
-### 💻 Automation
+### 💻 **Automation**
 
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)&nbsp;&nbsp;&nbsp;![IFTTT](https://img.shields.io/badge/IFTTT-000000?style=for-the-badge&logo=ifttt&logoColor=white)
 
-### 💻 Other
+### 💻 **Other**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## 📊 GitHub Stats & Activity
+## 📊 **GitHub Stats & Activity**
 
 <div align="center">
 
@@ -168,24 +171,6 @@ that ask, “What if therapy, GitHub, and a biker bar had a weird little baby?�
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CassieMarie0728&layout=compact&theme=dark&langs_count=10)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/CassieMarie0728?style=social)](https://twitter.com/CassieMarie0728)
-
-<!-- MEDIUM_BLOG:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- MEDIUM_BLOG:END -->
-
-**Requires GitHub Action setup.** See
-[blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
-
-<!-- BLOG_POST_LIST:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- BLOG_POST_LIST:END -->
-
-**Requires GitHub Action setup.** See
-[blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CassieMarie0728&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
@@ -197,7 +182,7 @@ that ask, “What if therapy, GitHub, and a biker bar had a weird little baby?�
 
 <div align="center">
 
-**Thank you for stopping by! 🤘🏻**
+**Thanks for swingin' by! 🤘🏻**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CassieMarie0728&color=brightgreen&style=flat-square&label=Profile+Views)
 
