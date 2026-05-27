@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hi 👋, I'm Cassandra Crossno
+# Hi ✌🏻, I'm Cassandra Crossno
 
 ### Author. Designer. Grief-tech chaos architect building tools for the beautifully unhinged, the deeply human, and the violently unfinished.
 
@@ -12,30 +12,21 @@
 
 </div>
 
-## 🚀 **About Me**
+## 🔥 **About Me**
 
-Author, designer, builder, and professional chaos translator. I create
-grief-centered tools, darkly honest writing, and weirdly useful systems for
-people trying to survive the aftermath without pretending everything is fine.
+Author, designer, builder, and professional chaos translator. I create grief-centered tools, darkly honest writing, and weirdly useful systems for people trying to survive the aftermath without pretending everything is fine.
 
-My work lives somewhere between emotional wreckage, creative rebellion, and
-“hold my coffee, I can build that.” I’m currently building apps, automation
-workflows, and digital infrastructure around storytelling, grief, memory, and
-self-reinvention.
+My work lives somewhere between emotional wreckage, creative rebellion, and “hold my coffee, I can build that.” I’m currently building apps, automation workflows, and digital infrastructure around storytelling, grief, memory, and self-reinvention.
 
 ## 📚 **Learning & Knowledge**
 
 <div align="left">
 
-- 🌱 I'm currently learning **How to wire together the beautiful disaster zone
-  of modern development: MCP servers, TypeScript SDKs, Python/FastAPI backends,
-  React frontends, Docker, n8n automation, LLM tools, prompt engineering, GitHub
-  workflows, and documentation systems that don’t make people want to fake their
-  own death.**
+- 🌱 I'm currently learning **how to wire together the beautiful disaster zone of modern development: MCP servers, TypeScript SDKs, Python/FastAPI backends, React frontends, Docker, n8n automation, LLM tools, prompt engineering, GitHub workflows, and documentation systems that don’t make people want to fake their own death.**
 
 </div>
 
-## 🚀 **Projects**
+## ☠️ **Projects**
 
 | Project                | Description                                                                                                                                                                                                                                                                                                                         | Links                                                               |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
@@ -44,53 +35,50 @@ self-reinvention.
 | Snippet Bubble Manager | Snippet Bubble Manager is a lightweight creative/code snippet organizer built to help capture, tag, search, and reuse useful fragments without letting them rot in the digital junk drawer from hell. It is designed for fast saving, clean organization, and quick retrieval of reusable text, code, prompts, and workflow pieces. | [GitHub](https://github.com/CassieMarie0728/snippet-bubble-manager) |
 | Jekyll Forge | A production-ready visual editor, publishing dashboard, and GitHub-powered CMS for Jekyll blogs built for Android. | [GitHub](https://github.com/CassieMarie0728/jekyll-forge) |
 
-<p align="center">## **MCP Hub**</p>
+## MCP Hub
 
-<p align="center"><img width="512" height="512" alt="mcp-hub" src="https://github.com/user-attachments/assets/b89f5817-4142-4930-9e36-17eb547e623b" /></p>
+<p align="center"><img width="128" height="128" alt="mcp-hub" src="https://github.com/user-attachments/assets/b89f5817-4142-4930-9e36-17eb547e623b" /></p>
 
 <p align="center">Technologies Used: TypeScript, Node.js, MCP, HTTP APIs, OAuth, JSON-RPC, CLI/runtime tooling</p>
 
-<p align="center">## **THE FORK**</p>
+## THE FORK
 
-<p align="center"><img width="512" height="512" alt="the-fork" src="https://github.com/user-attachments/assets/e1161641-fbef-4ec2-a5bf-375b6102f27a" /></p>
+<p align="center"><img width="128" height="128" alt="the-fork" src="https://github.com/user-attachments/assets/e1161641-fbef-4ec2-a5bf-375b6102f27a" /></p>
 
 <p align="center">Technologies Used: React, FastAPI, Python, MongoDB, LLM APIs, Docker, Prompt Architecture, Safety Wrappers</p>
 
-<p align="center">## **Snippet Bubble Manager**</p>
+## Snippet Bubble Manager
 
-<p align="center"><img width="512" height="512" alt="snippet-bubble-manager" src="https://github.com/user-attachments/assets/9a2c6ddd-c006-4463-910a-75d32145d058" /></p>
+<p align="center"><img width="128" height="128" alt="snippet-bubble-manager" src="https://github.com/user-attachments/assets/9a2c6ddd-c006-4463-910a-75d32145d058" /></p>
 
 <p align="center">Technologies Used: React, JavaScript/TypeScript, TailwindCSS, Local Storage/Database Layer, Searchable Tags, Browser/PWA-styke UI</p>
 
-<p align="center">## **Jekyll Forge**</p>
+## Jekyll Forge
 
-<p align="center"><img width="512" height="512" alt="jekyll-forge" src="https://github.com/user-attachments/assets/8b8b6327-199c-4ff9-ba55-4fa5207c8750" /></p>
+<p align="center"><img width="128" height="128" alt="jekyll-forge" src="https://github.com/user-attachments/assets/8b8b6327-199c-4ff9-ba55-4fa5207c8750" /></p>
 
 <p align="center">Technologies Used: Typescript, React, Vite, Tailwindcss, Express, tRPC, Drizzle-ORM, MySQL, pnpm. Vitest</p>
 
-## 📞 **Contact & Links**
+## 📨 **Contact & Links**
 
 <div align="left">
 
-- 📫 How to reach me **[by email](cmcrossno@gmail.com)**
-- 👨‍💻 All of my projects are available at
-  [https://github.com/cassiemarie0728](https://github.com/cassiemarie0728)
-- 📝 I regularly write articles on
-  [https://nobullshitgrief.com](https://nobullshitgrief.com)
+- 📫 Here's how to reach me **[by email](cmcrossno@gmail.com)**
+- 👨‍💻 All of my projects are available at  [https://github.com/cassiemarie0728](https://github.com/cassiemarie0728)
+- 📝 I regularly write articles on [https://nobullshitgrief.com](https://nobullshitgrief.com)
 
 </div>
 
-## ⚡ **Fun Fact**
+## ✨ **Fun Fact**
 
 <div align="center">
 
 _I accidentally became a full-stack chaos gremlin by trying to automate my grief
-empire, organize my digital junk drawers, and build emotionally intelligent apps
-that ask, “What if therapy, GitHub, and a biker bar had a weird little baby?”_
+empire, organize my digital junk drawers, and build emotionally intelligent apps that ask, “What if therapy, GitHub, and a biker bar had a weird little baby?”_
 
 </div>
 
-## 🌐 **Connect with Me**
+## 💣 **Connect with Me**
 
 <div align="center">
 
@@ -98,7 +86,7 @@ that ask, “What if therapy, GitHub, and a biker bar had a weird little baby?�
 
 </div>
 
-## ☕ **Support Me**
+## 🍺 **Support Me**
 
 <div align="center">
 
