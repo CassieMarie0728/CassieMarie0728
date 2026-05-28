@@ -154,15 +154,13 @@ empire, organize my digital junk drawers, and build emotionally intelligent apps
 
 <div align="center">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=CassieMarie0728&theme=dark&column=7&margin-w=15&margin-h=15)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CassieMarie0728&layout=compact&theme=dark&langs_count=10)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/CassieMarie0728?style=social)](https://twitter.com/CassieMarie0728)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CassieMarie0728&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CassieMarie0728&theme=monokai)
+
+[![NO BULLSHIT GRIEF | WHERE GRIEF GETS LOUD | TRUTH GETS UGLY | AND SURVIVAL GETS A GODDAMN ATTITUDE](https://github.com/CassieMarie0728/cassie-marie/blob/53df4dec2f7684ed4de72c9ec2d20e15f3261f2b/images/nobullshitgrief.com-banner-1.png)](https://nobullshitgrief.com "bring it on..")
 
 </div>
 
