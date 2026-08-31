@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hi ✌🏻, I'm Cassandra Crossno
+# Hi ✌🏻, I'm Cass
 
 ### Author. Designer. Grief-tech chaos architect building tools for the beautifully unhinged, the deeply human, and the violently unfinished.
 
@@ -34,6 +34,7 @@ My work lives somewhere between emotional wreckage, creative rebellion, and “h
 | THE FORK               | THE FORK is an interactive reflective app where users can talk to an “alternate self” from a path not taken. It is designed as a grounded, human, emotionally safe experience—not a sci-fi simulation, not therapy cosplay, and definitely not some glitter-coated destiny machine.                                                 | [GitHub](https://github.com/CassieMarie0728/the-fork)               |
 | Snippet Bubble Manager | Snippet Bubble Manager is a lightweight creative/code snippet organizer built to help capture, tag, search, and reuse useful fragments without letting them rot in the digital junk drawer from hell. It is designed for fast saving, clean organization, and quick retrieval of reusable text, code, prompts, and workflow pieces. | [GitHub](https://github.com/CassieMarie0728/snippet-bubble-manager) |
 | Jekyll Forge | A production-ready visual editor, publishing dashboard, and GitHub-powered CMS for Jekyll blogs built for Android. | [GitHub](https://github.com/CassieMarie0728/jekyll-forge) |
+| VOID Repo Docs | Codebase-specific AI-generated legal documents... with an attitude. | [GitHub](https://github.com/CassieMarie0728/void-repo-docs)
 
 ## MCP Hub
 
@@ -58,6 +59,12 @@ My work lives somewhere between emotional wreckage, creative rebellion, and “h
 <p align="center"><img width="200" height="200" alt="jekyll-forge" src="https://github.com/user-attachments/assets/8b8b6327-199c-4ff9-ba55-4fa5207c8750" /></p>
 
 <p align="center">Technologies Used: Typescript, React, Vite, Tailwindcss, Express, tRPC, Drizzle-ORM, MySQL, pnpm. Vitest</p>
+
+## VOID Repo Docs
+
+<p align="center"><img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/aa2b1805-eebe-4fe4-a98b-a547da7a84ff" /></p>
+
+<p align="center">Technologies Used: Typescript, Capacitor, React, TaliwindCSS, Vite, Codebase Legal Document Generator</p>
 
 ## 📨 **Contact & Links**
 
