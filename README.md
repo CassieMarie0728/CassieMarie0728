@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/CassieMarie0728/cassie-marie/blob/3557f6578ad65f1b20fed3a345f7f144697d443f/images/banner-1.png" alt="Profile Banner" width="100%" />
+  <img width="1600" height="500" alt="image" src="https://github.com/user-attachments/assets/2c224717-fba4-402d-b3d6-19d726204a76" />
 </div>
 
 <div align="center">
